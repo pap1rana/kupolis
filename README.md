@@ -1,1 +1,2 @@
-# kupolis
+# Kupolis
+Website for project "Kupolis" 
