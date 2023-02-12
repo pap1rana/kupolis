@@ -42,11 +42,11 @@ header{
     font-size: xx-large;
 }
 
-nav {
+.menu nav {
     min-width: 60%;
 }
 
-nav a{
+.menu nav a{
     width: 25%;
     height: 100%;
     display: flex;
@@ -54,7 +54,7 @@ nav a{
     justify-content: center;
 }
 
-nav a:hover{
+.menu nav a:hover{
     background-color: #61DAFB;
 }
 
