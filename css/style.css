@@ -65,9 +65,9 @@ header{
     /* background-image: url("../img/kb3.jpg"); */
 }
 
-/* #phoneMenu{
-    display: none;
-} */
+#phoneMenu a:hover {
+    background-color: #61DAFB;
+}
 
 @media only screen and (max-width: 500px) {
     .menu > nav {
