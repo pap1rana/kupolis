@@ -1,4 +1,29 @@
 .cover {
     background-image: url("../img/underConstruction.jpg");
     background-size: contain;
+    background-repeat: no-repeat;
+    max-width: 90%;
+    margin: auto;
+}
+
+section {
+    width: 80%;
+    margin: auto;
+    margin-top: 10%;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+section p {
+    margin-top: 5%;
+    font-size: 1.5em;
+    text-align: justify;
+    text-justify: newspaper;
+}
+
+.kontakt a {
+    color: #61DAFB!important;
 }
